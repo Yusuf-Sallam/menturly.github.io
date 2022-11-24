@@ -8,9 +8,9 @@
 Yassin Kortam graduated from high school when he was 16 to pursue lower division engineering and computer science coursework at community college. At the height of the pandemic and while managing a heavy course load, he created a club to mentor fellow students in machine learning, data science, web development, and robotics. Currently, Yassin is pursuing a Bachelor’s degree in Electrical Engineering and a technical breadth in Computer Science at the University of California, Los Angeles (UCLA) and is a member of ACM and IEEE. Additionally, he is contributing to radiomics research at UCLA health, helping develop new ways to detect and diagnose tumors from ultrasounds. 
 </p>
 
-<a href="https://www.linkedin.com/in/yassink/" LinkedIn>
-<a href="https://github.com/yassinkortam" Github>
-<a href="https://www.instagram.com/yassinkortam/" Instagram>
+<a href="https://www.linkedin.com/in/yassink/"> LinkedIn</a>
+<a href="https://github.com/yassinkortam"> Github</a>
+<a href="https://www.instagram.com/yassinkortam/"> Instagram</a>
 
 
 ## Yusuf Sallam
