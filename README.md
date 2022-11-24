@@ -1,13 +1,7 @@
 # Menturly
 ## Yassin Kortam
 
-<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" 
-     style="
-            display: block;
-            margin-left: auto;
-            margin-right: auto;
-            width: 50%;
- ">
+<img src="https://github.com/Menturly/menturly.github.io/blob/main/yassin.jpeg?raw=true" style="display: block;margin-left: auto; margin-right: auto; width: 50%;">
                                                                                                 >
 
 <p align="justify">
