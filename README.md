@@ -21,3 +21,6 @@ Yassin Kortam graduated from high school when he was 16 to pursue lower division
 Yusuf Sallam graduated from Cupertino High School early at the age of 16 to pursue his interest in Entrepreneurship, Technology, and Psychology. Following his graduation in the peak of the pandemic, with his mentor he started InstaDelivery, an affordable same day grocery delivery service. He launched an app and website helping thousands of elderly individuals across the entire Bay Area. Now he is a current student at the University of California, Los Angeles (UCLA) studying Cognitive Science w/ a Specialization in Computing and Data science engineering minor. He is a member of the UCLA men's club basketball team and has extensive research and business experience in tech. His approach to life is to be unconventional, different, and to inspire and motivate others to be their best self. 
 </p>
 
+<a href="https://www.linkedin.com/in/yausufsallam/"> LinkedIn</a>
+<a href="https://github.com/yusuf-sallam"> Github</a>
+<a href="https://www.instagram.com/yusufmallas/"> Instagram</a>
